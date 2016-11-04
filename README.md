@@ -1,5 +1,4 @@
 # Project-ideas
-Bored? Get to work.
 
 ### Inventory tracker
 Build a tool to keep track of inventory, budgets, projects. [Inventory tracking started here](https://github.com/bjblayney/inventory-tracker)
