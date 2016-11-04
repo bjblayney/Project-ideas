@@ -1,6 +1,9 @@
 # Project-ideas
 Bored? Get to work.
 
+### Inventory tracker
+Build a tool to keep track of inventory, budgets, projects. [Inventory tracking started here](https://github.com/bjblayney/inventory-tracker)
+
 ### Timeline website/app
 Interface to input historically significant events/findings. Interface to sort, filter and visualize all content/connections. 
 
