@@ -9,8 +9,11 @@ Interface to input historically significant events/findings. Interface to sort, 
 ### Habit builder
 Interface to log and create new 'positive' changes/habits.
 
+### Readings tracker
+Automate a reading list website.
+
 ### Page scraper
-connect to a site and pull out all links, or images, or specific keywords and saves them to a list.
+connect to a site and pull out all links, or images, or specific keywords.
 
 ### Meme generator
 Make a site that allows people to generate their own memes or ecards
