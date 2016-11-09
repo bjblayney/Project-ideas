@@ -10,7 +10,7 @@ Interface to input historically significant events/findings. Interface to sort, 
 Interface to log and create new 'positive' changes/habits.
 
 ### Readings tracker
-Automate a reading list website.
+Automate a reading list website. Currently working [here](http://bjblayney.com/reading/) - using slack and ifttt. 
 
 ### Page scraper
 connect to a site and pull out all links, or images, or specific keywords.
