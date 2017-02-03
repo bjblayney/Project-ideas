@@ -9,6 +9,9 @@ Interface to input historically significant events/findings. Interface to sort, 
 ### Habit builder
 Interface to log and create new 'positive' changes/habits.
 
+### Anti Facebook extension
+If on Facebook, allow scroll upto 3000 some pixels then warn/ask if you really need to be on facebook right now.
+
 ### Readings tracker
 Automate a reading list website. Currently working [here](http://bjblayney.com/reading/) - using slack and ifttt. 
 
