@@ -10,7 +10,7 @@ Interface to input historically significant events/findings. Interface to sort, 
 Interface to log and create new 'positive' changes/habits.
 
 ### Anti Facebook extension
-If on Facebook, allow scroll upto 3000 some pixels then warn/ask if you really need to be on facebook right now.
+If on Facebook, allow scroll upto 3000 some pixels then warn/ask if you really need to be on facebook right now. Working [here](https://github.com/bjblayney/no-more-fb).
 
 ### Readings tracker
 Automate a reading list website. Currently working [here](http://bjblayney.com/reading/) - using slack and ifttt. 
